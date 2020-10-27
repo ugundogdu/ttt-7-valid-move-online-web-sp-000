@@ -1,6 +1,6 @@
 def valid_move?
   if player number = 1
-    puts number - 1
+    puts "number - 1"
   end 
   # code your #valid_move? method here
 
